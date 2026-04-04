@@ -14,5 +14,4 @@ JavaScript, Lua, and other languages. I currently work on IoT projects in the en
 
 - [LinkedIn](https://www.linkedin.com/in/benckx)
 - [Itch](https://benckx.itch.io)
-- [Encelade SRL](https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0700.990.987&actionLu=Recherche&lang=en)
 - [About](https://benckx.me)
