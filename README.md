@@ -1,4 +1,4 @@
-## About
+# About
 
 Software developer since 2008, mainly working with Java, Scala, and Kotlin. I also have experience with Python,
 JavaScript, Lua, and other languages. I currently work on IoT projects in the energy optimization sector at Centrica
