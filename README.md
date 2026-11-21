@@ -7,10 +7,10 @@ JavaScript, Lua, and other languages. I currently work on in the energy optimiza
 
 - [elephantchess.io](https://elephantchess.io) a web app to play and study Chinese chess
 - [voxpol.fr](https://voxpol.fr) a poll aggregator for the 2027 French presidential election
-- [scanyourcan.com](https://scanyourcan.com) project written by performance
-  artist [Carole Louis](https://carole-louis.net/)
 - [Metacritic vs IMDb](https://benckx.github.io/metacritic-vs-imdb) dashboard to visualization where Metacritic critics
   and IMDb users disagree on movies
+- [scanyourcan.com](https://scanyourcan.com) project written by performance
+  artist [Carole Louis](https://carole-louis.net/)
 
 ## jMonkeyEngine Side Projects
 
