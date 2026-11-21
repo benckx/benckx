@@ -9,6 +9,8 @@ JavaScript, Lua, and other languages. I currently work on in the energy optimiza
 - [voxpol.fr](https://voxpol.fr) a poll aggregator for the 2027 French presidential election
 - [scanyourcan.com](https://scanyourcan.com) project written by performance
   artist [Carole Louis](https://carole-louis.net/)
+- [Metacritic vs IMDb](https://benckx.github.io/metacritic-vs-imdb) dashboard to visualization where Metacritic critics
+  and IMDb users disagree on movies
 
 ## jMonkeyEngine Side Projects
 
@@ -27,6 +29,8 @@ In the meantime, I released a couple of utilities related to that project:
 - [ouistiti-java-sample](https://github.com/benckx/ouistiti-java-sample) Sample project for ouistiti, using only Java
 - [jme-asset-viewer](https://github.com/benckx/jme-asset-viewer) Minimalist GUI to preview/test 3D assets in a
   jMonkeyEngine scene
+- [jme3-load-test](https://github.com/benckx/jme3-load-test) Test how many simple Box I can add to a scene and how it
+  affects the FPS
 
 ## Links
 
